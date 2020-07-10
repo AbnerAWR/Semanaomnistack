@@ -31,9 +31,6 @@ Depois que o merge da sua pull request for feito, você pode deletar a sua branc
 
 ### :mortar_board: Quem ministrou?
 
-A semana foi ministrada pelo [Diego Fernandes](https://github.com/diego3g)
-
-
 **A semana foi ministrada pelo instrutor: [Diego Fernandes](https://github.com/diego3g) | CTO Rocketseat**
 
 ## Licença
