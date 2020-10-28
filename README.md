@@ -34,7 +34,7 @@ Depois que o merge da sua pull request for feito, você pode deletar a sua branc
 **A semana foi ministrada pelo instrutor: [Diego Fernandes](https://github.com/diego3g) | CTO Rocketseat**
 
 ## Licença
-[MIT](https://github.com/christyanbrayan/be-the-hero/blob/master/LICENSE)
+[MIT](https://github.com/AbnerAWR/Semanaomnistack/blob/master/LICENSE)
 
 ---
 
